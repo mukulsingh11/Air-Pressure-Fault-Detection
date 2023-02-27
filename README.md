@@ -26,6 +26,53 @@ git --version
 download the dataset 
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
 ```
+### Step 5 
+check the git version 
+``` git -- version
+```
+create git repo project name
+
+git remote -v
+
+git remote remove origin
+
+git remote -v
+
+git log
+
+--- connect to gihub ---> copy URL 
+
+git remote add origin (past link)
+
+git remote -v
+
+git log (id code is not change it is create problem for us)
+
+git push origin main
+
+ls -a
+cd .git
+ls
+cd logs
+git log
+git reset --soft (6afd), --->main branch
+git log
+
+git add .
+git status
+
+git commit -m 'This is our first version code'
+git config --global user.email
+git config --global user.name
+git commit -m 'This is our first version code'
+
+git log ( check who is commited)
+
+git push origin main -f
+
+
+
+
 
 
 
