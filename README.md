@@ -27,4 +27,13 @@ download the dataset
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
 ```
 
-### step5 
+
+
+
+
+
+
+
+
+
+This file is edited by Mukul Singh github website
